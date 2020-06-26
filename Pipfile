@@ -12,6 +12,7 @@ celery = "*"
 flower = "*"
 braintree = "*"
 python-dotenv = "*"
+weasyprint = "*"
 
 [requires]
 python_version = "3.7"
