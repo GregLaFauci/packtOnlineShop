@@ -10,6 +10,8 @@ django = "*"
 pillow = "*"
 celery = "*"
 flower = "*"
+braintree = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
